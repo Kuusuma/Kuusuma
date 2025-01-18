@@ -6,11 +6,11 @@ I'm primarily interested in **full-stack development** and **data analysis**.
 
 I'm proficient in **Python, JavaScript, HTML, CSS**, and frameworks like **Django**.
 
-I'm always learning and currently diving into Kubernetes, Linux, and exploring cloud technologies.
+I'm currently learning Kubernetes, Linux, and exploring cloud technologies.
 
 My goal is to master web development, data analysis, and secure a role in a top-tier tech company.
 
-Outside of Tech,I enjoy 📚 reading biographies, 🎨 painting, 🧘‍♂️ practicing yoga, 🚀travelling and exploring the latest in science and technology.
+Outside of Tech,I enjoy 📚 reading biographies, 🎨 painting,  🚀travelling and exploring the latest in science and technology.
 
 Let's connect!!! 
 
