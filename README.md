@@ -1,17 +1,16 @@
-👋 Hi there!
+### 👩‍💻 Hey! Welcome to my GitHub💻 
 
-I'm Kusuma, a Computer Science Engineering student passionate about technology and innovation.
+👋I'm Kusuma M
+💡 A curious mind passionate about **Full-Stack Development**, **Software Engineering**, and **AI/ML**  
+🐍 Exploring the world of **Emerging Python** and unlocking insights through **Data Analysis**  
+🎓 Recently graduated in **Computer Science & Engineering** from *Sambhram Institute of Technology*  
+🌟 On a journey to turn creative tech ideas into impactful real-world solutions 🚀
 
-I'm primarily interested in **full-stack development** and **data analysis**.
-
-I'm proficient in **Python, JavaScript, HTML, CSS**, and frameworks like **Django**.
-
-I'm currently learning Kubernetes, Linux, and exploring cloud technologies.
-
-My goal is to master web development, data analysis, and secure a role in a top-tier tech company.
-
-Outside of Tech,I enjoy 📚 reading biographies, 🎨 painting,  🚀travelling and exploring the latest in science and technology.
-
-Let's connect!!! 
-
+📝 **About Me**
+  
+  - 👩‍🎓 **Recently Graduated**: B.E. in Computer Science & Engineering (2025) – Sambhram Institute of Technology: (8.59 CGPA)
+  
+  - 💡 **Core Strengths**: Full-Stack Development, Python, Django, Flask, Data Analysis, AI/ML, Sotware Development.
+  
+  - 💼 **Internships**: IBM (AI/ML), Capgemini (Web Development using Python), Analogica (Automation Data Analysis using Python)
 
