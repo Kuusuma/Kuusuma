@@ -1,7 +1,9 @@
 ### 👩‍💻Welcome to my GitHub💻 
 
 Hi there👋 
+
 I'm Kusuma Murugesh
+
   💡 A curious mind passionate about **Full-Stack Development**, **Software Engineering**, and **AI/ML**  
   🐍 Exploring the world of **Emerging Python** and unlocking insights through **Data Analysis**  
   🎓 Recently graduated in **Computer Science & Engineering** from *Sambhram Institute of Technology*  
