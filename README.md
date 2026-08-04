@@ -1,4 +1,3 @@
-![Banner](./assets/banner.png)
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm **Kusuma**, a software engineer and AI enthusiast based in Bengaluru, India.
